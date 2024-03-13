@@ -4,9 +4,20 @@
 **NPM** : **2206081313** <br/>
 
 ## Before Refactoring:
-
+![test_plan_1](https://github.com/Fec16/exercise-profiling/assets/118716513/d32c2dca-d032-4d2f-afa0-cbeeaa407fd9)
+![testresults1](https://github.com/Fec16/exercise-profiling/assets/118716513/f3eab464-5bdb-43ef-bdeb-8cca10d7154f)
+![test_plan_2](https://github.com/Fec16/exercise-profiling/assets/118716513/4bd87f7a-cf4b-4166-a543-9946b66ebd03)
+![testresults2](https://github.com/Fec16/exercise-profiling/assets/118716513/6388b366-d48f-4bee-ab9d-aae18d69e662)
+![test_plan_3](https://github.com/Fec16/exercise-profiling/assets/118716513/8928cd85-d445-42cc-a147-83848c38ed7e)
+![testresults3](https://github.com/Fec16/exercise-profiling/assets/118716513/ed6efb27-27cc-44ea-be31-aa388a4b7188)
 
 ## After Refactoring:
+![test_plan_1_after](https://github.com/Fec16/exercise-profiling/assets/118716513/4a82cc1a-4cfc-4856-8761-cc9e5fe3692e)
+![testresults1_after](https://github.com/Fec16/exercise-profiling/assets/118716513/b5d78cd3-84c2-41af-95cc-e6b3f69f59ae)
+![test_plan_2_after](https://github.com/Fec16/exercise-profiling/assets/118716513/a42c6e77-0b16-43c7-b668-39c42d36f659)
+![testresults2_after](https://github.com/Fec16/exercise-profiling/assets/118716513/ecfa1d96-1506-4029-a7c3-197afc4b6e2d)
+![test_plan_3_after](https://github.com/Fec16/exercise-profiling/assets/118716513/baea4e4d-2cda-42fe-8076-a8c282487a01)
+![testresults3_after](https://github.com/Fec16/exercise-profiling/assets/118716513/c5505fd0-fdb2-445d-af35-5295341a6007)
 
 
 ## Reflection
