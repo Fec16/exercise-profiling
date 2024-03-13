@@ -13,7 +13,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Locale;
 import java.util.Random;
-import java.util.stream.Collectors;
 
 /**
  * @author muhammad.khadafi
@@ -66,7 +65,7 @@ public class DataSeedService {
                     .distinct()
                     .limit(2)
                     .mapToObj(courses::get)
-                    .collect(Collectors.toList());
+                    .toList();
 
             for (Course course : selectedCourses) {
                 StudentCourse studentCourse = new StudentCourse(student, course);
